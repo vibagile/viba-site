@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Viba agile innovation</title>
+    <link>http://www.vibagileinnovation.com/</link>
+    <description>Recent content on Viba agile innovation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Sat, 30 Mar 2019 20:11:34 +0200</lastBuildDate>
+    
+	<atom:link href="http://www.vibagileinnovation.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog</title>
+      <link>http://www.vibagileinnovation.com/blog/</link>
+      <pubDate>Sat, 30 Mar 2019 20:11:34 +0200</pubDate>
+      
+      <guid>http://www.vibagileinnovation.com/blog/</guid>
+      <description>Título del primer artículo Este es el subtitulo del artículo anterior   Blanca Araujo
+Mar 30 2019
+ Apple’s new credit card isn’t particularly innovative by current industry standards. But for Goldman Sachs, it’s entirely new territory and a bellwether of how legacy banks are trying to stay relevant by linking up with Big Tech. Like most industries, banking has been going through a technology-driven identity crisis, grappling with the fact that, instead of selling financial products directly to customers at physical branches, they’ll probably become invisible financial platforms behind other brands.</description>
+    </item>
+    
+    <item>
+      <title>Contacto</title>
+      <link>http://www.vibagileinnovation.com/contacto/</link>
+      <pubDate>Sat, 30 Mar 2019 20:11:34 +0200</pubDate>
+      
+      <guid>http://www.vibagileinnovation.com/contacto/</guid>
+      <description>Contáctanos           Enviar   Gracias por ponerte en contacto con nosotros te contestaremos lo antes posible
+     Hablemos  +34 649 73 26 91      Email de contacto  contacto@vibagileinnovation.com        </description>
+    </item>
+    
+    <item>
+      <title>Talleres</title>
+      <link>http://www.vibagileinnovation.com/talleres/</link>
+      <pubDate>Sat, 30 Mar 2019 20:11:34 +0200</pubDate>
+      
+      <guid>http://www.vibagileinnovation.com/talleres/</guid>
+      <description>Uno de nuestros fuertes son los talleres y podéis encontrar aquí los formatos más demandados. Pero lo que los hace especiales es que los customizamos para cada empresa, adaptando contenido, duración, aforo... Para grupos grandes contamos con colabores de confianza.
+Ponte en contacto con nosotros para charlar sobre los detalles o solucionar tus dudas.
+  World Café Explora y reflexiona en grupo, despierta el liderazgo colaborativo  12-20   4-6h  Favorece la reflexión y el diálogo en equipo para explorar de forma común una temática o reto, buscando soluciones y propuestas de forma global.</description>
+    </item>
+    
+  </channel>
+</rss>

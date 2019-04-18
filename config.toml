@@ -1,0 +1,5 @@
+baseURL = "http://www.vibagileinnovation.com/"
+languageCode = "es-es"
+title = "Viba agile innovation"
+sectionPagesMenu = "main"
+publishDir = "docs"

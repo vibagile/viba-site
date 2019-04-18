@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+	<meta name="generator" content="Hugo 0.29" />
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>viba agile innovation</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+
+    <meta property="og:site_name" content="viba Agile Innovation">
+    <meta property="og:title" content="Viba agile innovation" />
+    <meta property="og:description" content="Hacemos fácil lo difícil" />
+    <meta property="og:url" content="http://vibagileinnovation.com" />
+    <meta property="og:url" content="http://vibagileinnovation.com/" />
+    <meta property="og:url" content="www.vibagileinnovation.com" />
+    <meta property="og:url" content="vibagileinnovation.com" />
+    <meta property="og:image" itemprop="image" content="http://vibagileinnovation.com/images/viba_logo.jpg">
+    <meta property="og:type" content="website" />
+
+    <link href='/base.css' rel='stylesheet' type="text/css" />
+    <link href='/form.css' rel='stylesheet' type="text/css" />
+    <link href='/mediaqueries.css' rel='stylesheet' type="text/css" />
+    <link href='/normalize.css' rel='stylesheet' type="text/css" />
+    <link href='/slideout.css' rel='stylesheet' type="text/css" />
+
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/slideout/1.0.1/slideout.min.js"></script>
+  </head>
+
+  <body class="ma0 avenir bg-near-white">
+      
+    <div id="menu">
+      <header>
+        <svg class="menu-close" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14" ratio="1">
+          <line fill="none" stroke="#fff" stroke-width="1.1" x1="1" y1="1" x2="13" y2="13"></line>
+          <line fill="none" stroke="#fff" stroke-width="1.1" x1="13" y1="1" x2="1" y2="13"></line>
+        </svg>
+        
+          <ul class="uk-nav">
+            <li class="uk-active">
+              <a href="http://www.vibagileinnovation.com/" title="inicio">
+                Inicio
+              </a>
+            </li>
+            
+              <li class="">
+                <a href="/talleres/" title="Talleres page">
+                  Talleres
+                </a>
+              </li>
+            
+              <li class="">
+                <a href="/blog/" title="Blog page">
+                  Blog
+                </a>
+              </li>
+            
+              <li class="">
+                <a href="/contacto/" title="Contacto page">
+                  Contacto
+                </a>
+              </li>
+            
+          </ul>
+        
+      </header>
+    </div>
+        
+    <main id="panel">
+      <div class="mobile-menu">
+        <div id="hamburguer-button">☰</div>
+        <a href="/"></a><img class="logo-mobile" src="/images/viba_logo.jpg" /></a>
+      </div>
+      <nav class="uk-navbar-container" uk-navbar>
+  <a href="/"><img id="logo" src="/images/viba_logo.jpg" /></a>
+  <div class="uk-navbar-center">
+    
+      <ul class="uk-navbar-nav">
+        <li class="uk-active">
+          <a href="http://www.vibagileinnovation.com/" title="inicio">
+            Inicio
+          </a>
+        </li>
+        
+          <li class="">
+            <a href="/talleres/" title="Talleres page">
+              Talleres
+            </a>
+          </li>
+        
+          <li class="">
+            <a href="/blog/" title="Blog page">
+              Blog
+            </a>
+          </li>
+        
+          <li class="">
+            <a href="/contacto/" title="Contacto page">
+              Contacto
+            </a>
+          </li>
+        
+      </ul>
+    
+  </div>
+</nav>
+      
+    <div class="uk-responsive-width">
+  <div class="welcome-image width-adjuster">
+    <h2 class="moto">
+      hacemos<br />
+      fácil lo<br />
+      difícil
+    </h2>
+  </div>
+
+  <div class="band-intro clouds width-adjuster">
+    <p id="sentence1">
+      Te acercamos las herramientas más novedosas para hacer crecer tu empresa,
+      nos integramos en tu equipo de trabajo y personalizamos herramientas a tus
+      necesidades.
+    </p>
+    <p id="sentence2">
+      Simplificamos los procesos de gestión e innovación, te ayudamos a
+      implementar herramientas ágiles que simplifiquen tu trabajo
+    </p>
+
+    <div class="clouds-background"></div>
+  </div>
+</div>
+
+
+    </main>
+
+    <div class="uk-offcanvas-content"></div>
+    
+  </body>
+
+  <script>
+      var $form = $('form#contact-form'),
+      url = 'https://script.google.com/macros/s/AKfycbyCJvQPcWGB8I-y4RwX3gYbeCL00ott-rm_FmwseiRm-ospZR4/exec'
+
+      $('#contact-form').on('submit', function(e) {
+        e.preventDefault();
+        $('.contact-loading').show();
+
+        var jqxhr = $.ajax({
+          url: url,
+          method: "GET",
+          dataType: "json",
+          data: $form.serialize()
+        }).done(() => {
+          $('.contact100-form-btn').hide();
+          $('.contact-success').show();
+        });
+      })
+      
+      var slideout = new Slideout({
+        'panel': document.getElementById('panel'),
+        'menu': document.getElementById('menu'),
+        'padding': 256,
+        'tolerance': 20,
+        'touch': false
+      });
+
+      
+      document.querySelector('#hamburguer-button').addEventListener('click', function() {
+        slideout.toggle();
+      });
+      
+      function close(eve) {
+        eve.preventDefault();
+        slideout.close();
+      }
+      
+      $('.menu-close').click(function() {
+        slideout.toggle();
+      });
+
+      slideout
+        .on('beforeopen', function() {
+          this.panel.classList.add('panel-open');
+        })
+        .on('open', function() {
+          this.panel.addEventListener('click', close);
+        })
+        .on('beforeclose', function() {
+          this.panel.classList.remove('panel-open');
+          this.panel.removeEventListener('click', close);
+        });
+    </script>
+</html>

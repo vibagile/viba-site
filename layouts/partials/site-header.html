@@ -1,0 +1,21 @@
+<nav class="uk-navbar-container" uk-navbar>
+  <a href="/"><img id="logo" src="/images/viba_logo.jpg" /></a>
+  <div class="uk-navbar-center">
+    {{ if .Site.Menus.main }}
+      <ul class="uk-navbar-nav">
+        <li class="{{ if .Page.IsHome }}uk-active{{ end }}">
+          <a href="{{ .Site.BaseURL }}" title="inicio">
+            Inicio
+          </a>
+        </li>
+        {{ range .Site.Menus.main }}
+          <li class="{{ if eq $.Page.RelPermalink .URL }}uk-active{{ end }}">
+            <a href="{{ .URL }}" title="{{ .Name }} page">
+              {{ .Name }}
+            </a>
+          </li>
+        {{ end }}
+      </ul>
+    {{ end }}
+  </div>
+</nav>
