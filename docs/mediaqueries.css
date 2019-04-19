@@ -80,6 +80,21 @@
     float: none;
     width: 96%;
   }
+  .talleres {
+    margin-bottom: 30px;
+  }
+  .contact-band {
+    margin-bottom: 0px;
+  }
+  main {
+    margin-bottom: 30px;
+  }
+  
+  h2.moto {
+    width: 280px;
+    right: 80px;
+    font-size: 38px;
+  }
 }
 
 @media (max-width: 780px) {

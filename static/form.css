@@ -86,7 +86,7 @@ button:hover {
   margin-bottom: 15px;
 }
 .contact-info {
-  color: #56c7ae;
+  color: #76bfb0;;
   font-weight: bold;
   margin-left: 52px;
   display: block;
@@ -156,7 +156,7 @@ textarea.input100 {
   top: -1px;
   left: -1px;
   pointer-events: none;
-  border: 1px solid #00ad5f;
+  border: 1px solid #76bfb0;
 
   visibility: hidden;
   opacity: 0;
@@ -226,10 +226,10 @@ textarea.input100 {
 }
 
 .contact100-form-btn:hover {
-  background: #2e816f;
+  background: #76bfb0;
 }
 .contact-success {
-  color: #2e816f;
+  color: #76bfb0;
   text-align: center;
   display: none;
 }
@@ -248,16 +248,33 @@ textarea.input100 {
 @media (max-width: 768px) {
   .contact100-form,
   .wrap-contact100 {
-    width: 100%;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
   }
   
   .form-box {
-    margin: 150px auto 0 auto;
+    margin: 100px auto 0 auto;
   }
 
   .contact100-more {
-    width: 100%;
-    min-height: 500px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 300px;
+    padding-top: 20px;
+    margin-bottom: 50px;
+    padding-left: 0px;
+  }
+  .div-flex {
+    display: inline-block;
+    text-align: center;
+  }
+  .contact-item {
+    margin: 40px 20px;
+  }
+  .contact-info {
+    font-size: 14px;
   }
 }
 
