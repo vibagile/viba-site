@@ -49,11 +49,19 @@
     margin-top: 28px;
     font-size: 16px;
   }
+  .article-body li {
+    font-size: 16px;
+  }
 }
 
 
 @media (max-width: 500px) {
   /* homepage */
+  h2.moto {
+    width: 280px;
+    right: 80px;
+    font-size: 38px;
+  }
   #sentence1 {
     left: 15%;
     top: 20px;
@@ -83,17 +91,13 @@
   .talleres {
     margin-bottom: 30px;
   }
+  
+  /* contacto */
   .contact-band {
     margin-bottom: 0px;
   }
   main {
     margin-bottom: 30px;
-  }
-  
-  h2.moto {
-    width: 280px;
-    right: 80px;
-    font-size: 38px;
   }
 }
 

@@ -6,14 +6,21 @@ html {
 *:before,
 *:after {
   box-sizing: inherit;
+  font-family: "Gotham", "Helvetica neue", "Helvetica";
 }
 
 p,
-a {
+a,
+li {
   font-family: "Gotham", sans-serif;
+  color: #333;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
+}
+
+ul li {
+  margin-bottom: 10px;
 }
 
 p {
@@ -200,7 +207,7 @@ h2.moto {
   right: 120px;
 
   font-size: 42px;
-  font-family: "Avenir Next", Avenir Next;
+  font-family: "Gotham", "Helvetica neue", "Helvetica";
   line-height: 55px;
   color: white;
   font-weight: 500;
@@ -265,6 +272,14 @@ h2.moto {
   background-size: cover;
   background-position: center;
   margin: 0 auto 50px auto;
+}
+.article ul {
+  font-size: 15px;
+  margin-top: 38px;
+}
+.article li {
+  margin-bottom: 16px;
+  line-height: 1.58;
 }
 .article {
   max-width: 950px;
@@ -496,7 +511,136 @@ h2.moto {
   margin-bottom: 90px;
 }
 
+/* services */
+.services-band {
+  height: 500px;
+  background: #df645f;
+  position: relative;
+}
+.services-triangle-wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+}
+.services-triangle {
+  position: absolute;
+  bottom: -50px;
+  z-index: 1;
+  
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 100px 150px 0 150px;
+  border-color: #df645f transparent transparent transparent;
+}
+.services-triangle-white {
+  border-color: #fafafa transparent transparent transparent;
+}
+.services-triangle-beige {
+  border-color: #EAE8D1 transparent transparent transparent;
+}
+.circles {
+  padding-top: 70px;
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+.circle-one,
+.circle-two,
+.circle-three {
+  height: 180px;
+  width: 180px;
+  border: 8px solid #fafafa;
+  border-radius: 50%;
+}
+.circle-one {
+  background: url('/images/servicios/rocket3.png') no-repeat;
+  background-size: contain;
+}
+.circle-two-image {
+  background: url('/images/servicios/bulb2.png') no-repeat;
+  width: 120px;
+  height: 120px;
+  background-size: contain;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 27px;
+}
+.circle-three {
+  background: url('/images/servicios/flag2.png') no-repeat;
+  background-size: cover;
+  background-position: center;
+}
 
+.circles-texts {
+  padding-top: 20px;
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+.circle-text {
+  color: white;
+  text-align: center;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.circle-text h2 {
+  font-size: 20px;
+  max-width: 250px;
+}
+.circle-text p {
+  color: white;
+  max-width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.services-one {
+  height: 500px;
+  background: #fafafa;
+  position: relative;
+}
+
+.services-two {
+  height: 500px;
+  background: #EAE8D1;
+  position: relative;
+}
+.services-two h2 {
+  color: #f0645f;
+}
+
+.services-three {
+  height: 500px;
+  background: #76bfb0;
+  position: relative;
+}
+.services-three h2 {
+  color: white;
+}
+.services-three p {
+  color: #222;
+}
+
+.service-header {
+  font-size: 30px;
+  margin-top: 20px;
+  color: #60ae9d;
+  text-align: center;
+}
+.service p {
+  text-align: center;
+  margin-left: 0;
+}
+.service {
+  position: absolute;
+  top: 50%;
+  height: 300px;
+  margin-top: -150px;
+  padding-left: 60px;
+  padding-right: 60px;
+}
 
 /* contact */
 .contact-band {
