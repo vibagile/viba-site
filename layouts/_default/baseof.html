@@ -24,9 +24,11 @@
     <link href='/mediaqueries.css' rel='stylesheet' type="text/css" />
     <link href='/normalize.css' rel='stylesheet' type="text/css" />
     <link href='/slideout.css' rel='stylesheet' type="text/css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Glide.js/3.3.0/css/glide.core.css" type="text/css">
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/slideout/1.0.1/slideout.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@glidejs/glide"></script>
   </head>
 
   <body class="ma0 {{ $.Param "body_classes"  | default "avenir bg-near-white"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
@@ -120,5 +122,20 @@
           this.panel.classList.remove('panel-open');
           this.panel.removeEventListener('click', close);
         });
+        
+      new Glide('.glide', {
+        bound: true,
+        breakpoints: {
+          1400: {
+            perView: 3,
+          },
+          780: {
+            perView: 2,
+          },
+          500: {
+            perView: 1,
+          }
+        }
+      }).mount()
     </script>
 </html>

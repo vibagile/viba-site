@@ -92,6 +92,24 @@
     margin-bottom: 30px;
   }
   
+  /* workshops */
+  .services-band {
+    height: auto;
+    padding-bottom: 50px;
+  }
+  .services-one,
+  .services-two,
+  .services-three {
+    height: auto;
+  }
+  .service {
+    height: auto;
+    position: relative;
+    padding-top: 70px;
+    padding-bottom: 50px;
+    margin-top: 0;
+  }
+  
   /* contacto */
   .contact-band {
     margin-bottom: 0px;
@@ -105,10 +123,22 @@
   nav {
     display: none;
   }
+  .glide__bullets {
+    display: block;
+  }
+}
+
+@media (min-width: 500px) and (max-width: 780px) {
+  .glide__bullet--3 {
+    display: none;
+  }
 }
 
 @media (min-width: 780px) {
   .mobile-menu {
+    display: none;
+  }
+  .glide__bullets {
     display: none;
   }
 }

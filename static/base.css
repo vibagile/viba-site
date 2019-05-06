@@ -539,11 +539,48 @@ h2.moto {
 .services-triangle-beige {
   border-color: #EAE8D1 transparent transparent transparent;
 }
-.circles {
+/* .circles {
   padding-top: 70px;
   display: flex;
   justify-content: space-around;
   width: 100%;
+} */
+
+.glide__bullets {
+  position: absolute;
+  z-index: 2;
+  bottom: 0.5rem;
+  left: 50%;
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  list-style: none;
+  -webkit-transform: translateX(-50%);
+  transform: translateX(-50%);
+}
+.glide__bullet {
+  background-color: hsla(0,0%,100%,.5);
+  width: 9px;
+  height: 9px;
+  padding: 0;
+  border-radius: 50%;
+  border: 2px solid transparent;
+  -webkit-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+  cursor: pointer;
+  line-height: 0;
+  -webkit-box-shadow: 0 0.25em 0.5em 0 rgba(0,0,0,.1);
+  box-shadow: 0 0.25em 0.5em 0 rgba(0,0,0,.1);
+  margin: 0 .25em;
+}
+.glide__bullet--active {
+  background-color: #fff;
+}
+
+
+.circle-image {
+  margin-left: auto;
+  margin-right: auto;
 }
 .circle-one,
 .circle-two,
@@ -573,7 +610,7 @@ h2.moto {
 }
 
 .circles-texts {
-  padding-top: 20px;
+  padding-top: 50px;
   display: flex;
   justify-content: space-around;
   width: 100%;
@@ -587,6 +624,8 @@ h2.moto {
 .circle-text h2 {
   font-size: 20px;
   max-width: 250px;
+  margin-left: auto;
+  margin-right: auto;
 }
 .circle-text p {
   color: white;
