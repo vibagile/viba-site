@@ -55,7 +55,7 @@
 }
 
 
-@media (max-width: 500px) {
+@media (max-width: 550px) {
   /* homepage */
   h2.moto {
     width: 280px;
@@ -92,22 +92,9 @@
     margin-bottom: 30px;
   }
   
-  /* workshops */
-  .services-band {
-    height: auto;
-    padding-bottom: 50px;
-  }
-  .services-one,
-  .services-two,
-  .services-three {
-    height: auto;
-  }
-  .service {
-    height: auto;
-    position: relative;
-    padding-top: 70px;
-    padding-bottom: 50px;
-    margin-top: 0;
+  /* blog */
+  .article img {
+    width: 100%;
   }
   
   /* contacto */
@@ -125,6 +112,24 @@
   }
   .glide__bullets {
     display: block;
+  }
+  
+  /* workshops */
+  .services-band {
+    height: auto;
+    padding-bottom: 50px;
+  }
+  .services-one,
+  .services-two,
+  .services-three {
+    height: auto;
+  }
+  .service {
+    height: auto;
+    position: relative;
+    padding-top: 70px;
+    padding-bottom: 50px;
+    margin-top: 0;
   }
 }
 

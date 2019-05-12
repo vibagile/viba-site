@@ -8,7 +8,6 @@ html {
   box-sizing: inherit;
   font-family: "Gotham", "Helvetica neue", "Helvetica";
 }
-
 p,
 a,
 li {
@@ -18,11 +17,9 @@ li {
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
 }
-
 ul li {
   margin-bottom: 10px;
 }
-
 p {
   -webkit-margin-before: 1em;
   -webkit-margin-after: 1em;
@@ -31,7 +28,6 @@ p {
   margin-left: 20px;
   margin-right: 20px;
 }
-
 a:hover {
   text-decoration: none;
 }
@@ -92,37 +88,6 @@ body {
 main {
   margin-bottom: 90px;
 }
-.uk-offcanvas-content {
-  flex: 1 0 auto;
-}
-
-.wall-notifications,
-.wall-notification {
-  display: none !important;
-}
-
-/*
-* Footer
-*/
-footer a {
-  color: white;
-  font-size: 16px;
-}
-.footer-border {
-  padding: 40px 0;
-  background-color: #999;
-  text-align: center;
-  border-width: 1px;
-}
-.footer-border a {
-  display: block;
-  font-family: "Gotham", sans-serif;
-}
-.footer-border a:hover {
-  color: white;
-  text-decoration: underline;
-}
-
 .uk-responsive-width {
   max-width: 100% !important;
   height: auto;
@@ -207,7 +172,6 @@ h2.moto {
   right: 120px;
 
   font-size: 42px;
-  font-family: "Gotham", "Helvetica neue", "Helvetica";
   line-height: 55px;
   color: white;
   font-weight: 500;
@@ -293,12 +257,18 @@ h2.moto {
   text-transform: none;
   text-decoration: none;
 }
+.article img {
+  display: block;
+  margin-top: 20px;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
 .article .highlight {
   font-weight: bold;
 }
 .article-title {
   font-size: 25px;
-  font-family: "Gotham", Avenir Next;
   color: #333;
 
   color: #60ae9d;
@@ -308,7 +278,6 @@ h2.moto {
 }
 .article-subtitle {
   font-size: 18px;
-  font-family: "Gotham", Avenir Next;
   margin: 5px 0 0 0;
   color: #777;
   font-weight: normal;
@@ -335,18 +304,15 @@ h2.moto {
 }
 .article-metadata-author {
   font-size: 16px;
-  font-family: "Gotham", "Helvetica neue", "Helvetica";
   margin: 0 0 8px 0;
   padding-top: 5px;
 }
 .article-metadata-date {
   font-size: 14px;
-  font-family: "Gotham", "Helvetica neue", "Helvetica";
   margin: 0;
   color: #777;
 }
 .article-body p {
-  font-family: "Gotham", "Helvetica neue", "Helvetica";
   color: #333;
   margin: 0;
   margin-top: 38px;
@@ -388,7 +354,6 @@ h2.moto {
   float: left;
   margin-top: 20px;
   margin-bottom: 20px;
-  font-family: "Gotham", "Helvetica neue", "Helvetica";
 }
 .workshop p {
   margin-left: 0;
@@ -539,12 +504,6 @@ h2.moto {
 .services-triangle-beige {
   border-color: #EAE8D1 transparent transparent transparent;
 }
-/* .circles {
-  padding-top: 70px;
-  display: flex;
-  justify-content: space-around;
-  width: 100%;
-} */
 
 .glide__bullets {
   position: absolute;
