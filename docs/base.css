@@ -88,6 +88,9 @@ body {
 main {
   margin-bottom: 90px;
 }
+main.Servicios {
+  margin-bottom: 0;
+}
 .uk-responsive-width {
   max-width: 100% !important;
   height: auto;
@@ -110,15 +113,13 @@ main {
   width: 80px;
   margin-top: -8px;
 }
-
 #menu {
   display: none;
-  color: white;
   padding-top: 20px;
   background: #333;
 }
 #menu a {
-  color: white;
+  color: #ddd;
   text-transform: none;
   text-decoration: none;
 }
@@ -127,6 +128,10 @@ main {
 }
 #menu ul li {
   margin-bottom: 20px;
+}
+#menu a.active {
+  font-weight: bold;
+  color: white!important;
 }
 .menu-close {
   position: absolute;

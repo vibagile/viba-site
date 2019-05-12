@@ -58,8 +58,9 @@
 @media (max-width: 550px) {
   /* homepage */
   h2.moto {
-    width: 280px;
-    right: 80px;
+    width: 260px;
+    padding: 60px 40px;
+    right: 70px;
     font-size: 38px;
   }
   #sentence1 {

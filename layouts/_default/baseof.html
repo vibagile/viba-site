@@ -40,15 +40,15 @@
           <line fill="none" stroke="#fff" stroke-width="1.1" x1="13" y1="1" x2="1" y2="13"></line>
         </svg>
         {{ if .Site.Menus.main }}
-          <ul class="uk-nav">
-            <li class="{{ if .Page.IsHome }}uk-active{{ end }}">
-              <a href="{{ .Site.BaseURL }}" title="inicio">
+          <ul>
+            <li>
+              <a href="{{ .Site.BaseURL }}" title="inicio" class="{{ if .Page.IsHome }}active{{ end }}">
                 Inicio
               </a>
             </li>
             {{ range .Site.Menus.main }}
-              <li class="{{ if eq $.Page.RelPermalink .URL }}uk-active{{ end }}">
-                <a href="{{ .URL }}" title="{{ .Name }} page">
+              <li>
+                <a href="{{ .URL }}" title="{{ .Name }} page" class="{{ if eq $.Page.RelPermalink .URL }}active{{ end }}">
                   {{ .Name }}
                 </a>
               </li>
@@ -58,10 +58,10 @@
       </header>
     </div>
         
-    <main id="panel">
+    <main id="panel" class="{{ .Title }}">
       <div class="mobile-menu">
         <div id="hamburguer-button">☰</div>
-        <a href="/"></a><img class="logo-mobile" src="/images/viba_logo.png" /></a>
+        <a href="/"><img class="logo-mobile" src="/images/viba_logo.png" /></a>
       </div>
       {{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}
       {{ block "main" . }}{{ end }}
