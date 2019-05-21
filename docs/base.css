@@ -324,6 +324,10 @@ h2.moto {
   font-size: 15px;
   line-height: 1.58;
 }
+.article-continue-reading {
+  margin-top: 20px;
+  display: block;
+}
 
 /* talleres */
 .workshop-band {

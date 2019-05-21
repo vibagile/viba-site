@@ -1,0 +1,20 @@
+{{ define "main" }}
+    <div class="blog-band width-adjuster"></div>
+
+    <div class="uk-responsive-width">
+        <div class="article">
+            <h2 class="article-title">{{ .Title }}</h2>
+            <h3 class="article-subtitle">{{ .Params.subtitle }}</h3>
+            <div class="article-metadata">
+                    <div class="circular-avatar">
+                        <div class="article-metadata-avatar"></div>
+                    </div>
+                <p class="article-metadata-author">{{ .Params.author }}</p>
+                <p class="article-metadata-date">{{ .Params.humandate }}</p>
+            </div>
+            <div class="article-body">
+              {{ .Content }}
+            </div>
+        </div>
+    </div>
+{{ end }}

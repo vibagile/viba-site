@@ -1,3 +1,31 @@
 {{ define "main" }}
-    <h1>Plantilla por defecto single</h1>
+    {{ .Content }}
+
+    <div class="uk-responsive-width">
+        {{ range $name, $page := .Site.Pages }}
+          {{ if eq .Layout "post" }}
+            <div class="article">
+                <a href="{{ $page.Permalink }}"><h2 class="article-title">{{ $page.Title }}</h2></a>
+                <h3 class="article-subtitle">{{ $page.Params.subtitle }}</h3>
+                <!--<div>-->
+                <!--  <time datetime="{{ $page.Date.Format "2006-01-02T15:04:05Z07:00" }}" class="post-list timeago">{{ $page.Date.Format "2006-01-02" }}</time>-->
+                <!--  {{ partial "list_taxonomies.html" . }}-->
+                <!--</div>-->
+
+                <div class="article-metadata">
+                        <div class="circular-avatar">
+                            <div class="article-metadata-avatar"></div>
+                        </div>
+                    <p class="article-metadata-author">{{ $page.Params.author }}</p>
+                    <p class="article-metadata-date">{{ $page.Params.humandate }}</p>
+                </div>
+                <div class="article-body">
+                    {{ $page.Content | truncate 600 }}
+                    <a href="{{ $page.Permalink }}" class="article-continue-reading">seguir leyendo</a>
+                </div>
+            </div>
+          {{ end }}
+        {{ end }}
+    </div>
+
 {{ end }}
