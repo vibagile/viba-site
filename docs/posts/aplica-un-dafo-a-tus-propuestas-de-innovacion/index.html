@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html lang="es">
   <head>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-140694285-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-140694285-1');
+    </script>
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <title>viba agile innovation</title>
@@ -32,7 +41,7 @@
   </head>
 
   <body class="ma0 avenir bg-near-white">
-      
+
     <div id="menu">
       <header>
         <svg class="menu-close" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14" ratio="1">
@@ -75,7 +84,7 @@
         
       </header>
     </div>
-        
+
     <main id="panel" class="Aplica un DAFO a tus propuestas de innovación">
       <div class="mobile-menu">
         <div id="hamburguer-button">☰</div>
@@ -196,7 +205,7 @@ herramienta muy sencilla y a la vez potente para sacar una foto del estado actua
           $('.contact-success').show();
         });
       })
-      
+
       var slideout = new Slideout({
         'panel': document.getElementById('panel'),
         'menu': document.getElementById('menu'),
@@ -209,12 +218,12 @@ herramienta muy sencilla y a la vez potente para sacar una foto del estado actua
       document.querySelector('#hamburguer-button').addEventListener('click', function() {
         slideout.toggle();
       });
-      
+
       function close(eve) {
         eve.preventDefault();
         slideout.close();
       }
-      
+
       $('.menu-close').click(function() {
         slideout.toggle();
       });
@@ -230,7 +239,7 @@ herramienta muy sencilla y a la vez potente para sacar una foto del estado actua
           this.panel.classList.remove('panel-open');
           this.panel.removeEventListener('click', close);
         });
-        
+
       new Glide('.glide', {
         bound: true,
         perView: 3,
