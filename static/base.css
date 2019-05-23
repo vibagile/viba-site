@@ -269,6 +269,13 @@ h2.moto {
   margin-left: auto;
   margin-right: auto;
 }
+.article .medium {
+  display: block;
+  margin-top: 30px;
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+}
 .article .highlight {
   font-weight: bold;
 }

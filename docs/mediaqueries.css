@@ -97,6 +97,9 @@
   .article img {
     width: 100%;
   }
+  .article img.medium {
+    width: 70%;
+  }
   
   /* contacto */
   .contact-band {
