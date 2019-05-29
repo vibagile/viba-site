@@ -3,6 +3,7 @@
 
     <div class="uk-responsive-width">
         {{ range $name, $page := .Site.Pages }}
+          {{ $page }}
           {{ if eq .Layout "post" }}
             <div class="article">
                 <a href="{{ $page.Permalink }}"><h2 class="article-title">{{ $page.Title }}</h2></a>
