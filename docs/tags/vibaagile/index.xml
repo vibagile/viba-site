@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VibaAgile on Viba agile innovation</title>
+    <link>http://www.vibagileinnovation.com/tags/vibaagile/</link>
+    <description>Recent content in VibaAgile on Viba agile innovation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 19 Jun 2019 20:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="http://www.vibagileinnovation.com/tags/vibaagile/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>La transformación que no pudo ser</title>
+      <link>http://www.vibagileinnovation.com/posts/la-transformacion-que-no-pudo-ser/</link>
+      <pubDate>Wed, 19 Jun 2019 20:00:00 +0200</pubDate>
+      
+      <guid>http://www.vibagileinnovation.com/posts/la-transformacion-que-no-pudo-ser/</guid>
+      <description>Hay lecciones que tienes que aprender a base de chocarte con ellas, pero si es de sabios aprender de los éxitos de otros, lo es mucho más aprender de los errores.  Un grupo de mandos intermedios intentaron liderar un cambio en su organización. El cambio consistía en implantar una nueva metodología de gestión, en la cual creían firmemente. Motivados como estaban y contando con cierta libertad a la hora de llevar a cabo este trabajo, organizaron formaciones, pusieron en marcha la metodología con una serie de proyectos piloto y fueron ganando adeptos y detractores a la causa.</description>
+    </item>
+    
+  </channel>
+</rss>
