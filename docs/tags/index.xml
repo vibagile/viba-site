@@ -6,24 +6,15 @@
     <description>Recent content in Tags on Viba agile innovation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Wed, 19 Jun 2019 20:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2019 08:40:40 +0200</lastBuildDate>
     
 	<atom:link href="http://www.vibagileinnovation.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>VibaAgile</title>
-      <link>http://www.vibagileinnovation.com/tags/vibaagile/</link>
-      <pubDate>Wed, 19 Jun 2019 20:00:00 +0200</pubDate>
-      
-      <guid>http://www.vibagileinnovation.com/tags/vibaagile/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>herramientas</title>
       <link>http://www.vibagileinnovation.com/tags/herramientas/</link>
-      <pubDate>Tue, 11 Jun 2019 08:20:40 +0200</pubDate>
+      <pubDate>Fri, 19 Jul 2019 08:40:40 +0200</pubDate>
       
       <guid>http://www.vibagileinnovation.com/tags/herramientas/</guid>
       <description></description>
@@ -32,9 +23,18 @@
     <item>
       <title>innovacion</title>
       <link>http://www.vibagileinnovation.com/tags/innovacion/</link>
-      <pubDate>Tue, 11 Jun 2019 08:20:40 +0200</pubDate>
+      <pubDate>Fri, 19 Jul 2019 08:40:40 +0200</pubDate>
       
       <guid>http://www.vibagileinnovation.com/tags/innovacion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VibaAgile</title>
+      <link>http://www.vibagileinnovation.com/tags/vibaagile/</link>
+      <pubDate>Wed, 19 Jun 2019 20:00:00 +0200</pubDate>
+      
+      <guid>http://www.vibagileinnovation.com/tags/vibaagile/</guid>
       <description></description>
     </item>
     
