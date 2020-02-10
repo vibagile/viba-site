@@ -6,10 +6,19 @@
     <description>Recent content in herramientas on Viba agile innovation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Tue, 28 Jan 2020 08:10:11 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 10 Feb 2020 08:10:11 +0200</lastBuildDate>
     
 	<atom:link href="http://www.vibagileinnovation.com/tags/herramientas/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Donde confluyen Agile y Bullet Journal</title>
+      <link>http://www.vibagileinnovation.com/posts/agilebulletjournaling/</link>
+      <pubDate>Mon, 10 Feb 2020 08:10:11 +0200</pubDate>
+      
+      <guid>http://www.vibagileinnovation.com/posts/agilebulletjournaling/</guid>
+      <description>Hoy hablamos de cómo puedes organizarte de forma ágil, cómo gestionar tu trabajo e ir adoptando algunas herramientas que luego son parte de muchas metodologías que se aplican en proyectos más complejos y en equipos de trabajo.  ¿Qué es Bullet Journal? Es un método que creó Ryder Carroll y explica en su libro “El método Bullet Journal” y puedes fisgar en su web BulletJournal.com. Mi objetivo con este post no es enseñarte a hacer Bullet Journal (método que me encanta, practico y te puedo enseñar si tienes interés), sino contarte algunos principios básicos y cómo encajan con la filosofía agile.</description>
+    </item>
     
     <item>
       <title>OKR, céntrate en lo que importa</title>
