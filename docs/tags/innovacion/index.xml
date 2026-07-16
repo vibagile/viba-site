@@ -1,60 +1,52 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>innovacion on Viba agile innovation</title>
-    <link>http://www.vibagileinnovation.com/tags/innovacion/</link>
-    <description>Recent content in innovacion on Viba agile innovation</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>es-es</language>
-    <lastBuildDate>Fri, 19 Jul 2019 08:40:40 +0200</lastBuildDate>
-    
-	<atom:link href="http://www.vibagileinnovation.com/tags/innovacion/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Sacale partido al DAFO de tu propuesta de innovación</title>
-      <link>http://www.vibagileinnovation.com/posts/sacale-partido-al-dafo-innovacion/</link>
-      <pubDate>Fri, 19 Jul 2019 08:40:40 +0200</pubDate>
-      
-      <guid>http://www.vibagileinnovation.com/posts/sacale-partido-al-dafo-innovacion/</guid>
-      <description>Hace apenas unas semanas, aquí  os contaba cómo aplicar un DAFO a una idea innovadora, y cómo ésta es una herramienta para mi indispensable a la hora de desarrollar una idea. Hoy me gustaría extender esta información a qué hacer a continuación:FortalezasLas fortalezas son la primera información que debes explotar. Son la razón de ser de tu proyecto y por lo tanto deberían estar todas claras en las 3 primeras páginas, o al principio de tu presentación, en función de a quién presentes tu idea.</description>
-    </item>
-    
-    <item>
-      <title>Descubre el poder de las preguntas</title>
-      <link>http://www.vibagileinnovation.com/posts/descubre-el-poder-de-las-preguntas/</link>
-      <pubDate>Tue, 11 Jun 2019 08:20:40 +0200</pubDate>
-      
-      <guid>http://www.vibagileinnovation.com/posts/descubre-el-poder-de-las-preguntas/</guid>
-      <description>Vivimos en una sociedad acostumbrada a que todas las preguntas tengan respuesta. Ya desde nuestro sistema educativo nos lo inculcan, cuándo fue la revolución francesa? En qué año descubrió América Cristóbal Colón? Quién escribió la Celestina? Tenemos la filosofía de que la respuesta a cualquier pregunta existe, y si no la sabes, malo será que no lo sepa Google.Las preguntas son la puerta a nuevas ideas, a nuevas formas de pensar.</description>
-    </item>
-    
-    <item>
-      <title>The World Café, liderazgo colaborativo</title>
-      <link>http://www.vibagileinnovation.com/posts/the-world-cafe-liderazgo-colaborativo/</link>
-      <pubDate>Wed, 29 May 2019 08:40:40 +0200</pubDate>
-      
-      <guid>http://www.vibagileinnovation.com/posts/the-world-cafe-liderazgo-colaborativo/</guid>
-      <description>En un evento hay un ponente, que con una presentación detrás, explica un problema mientras la mitad de su audiencia escucha, y la mitad se entretiene con el email, el teléfono o cualquier otra cosa. Cuando llega el turno de preguntas, nadie dice nada. Te suena esta situación? Opinas que al ponente le enriquecería más conversar con su audiencia y saber lo que piensan?El World Café es un método para organizar conversaciones en torno a temas que importan.</description>
-    </item>
-    
-    <item>
-      <title>Aplica un DAFO a tus propuestas de innovación</title>
-      <link>http://www.vibagileinnovation.com/posts/aplica-un-dafo-a-tus-propuestas-de-innovacion/</link>
-      <pubDate>Mon, 20 May 2019 17:10:11 +0200</pubDate>
-      
-      <guid>http://www.vibagileinnovation.com/posts/aplica-un-dafo-a-tus-propuestas-de-innovacion/</guid>
-      <description>Un DAFO, o SWOT en inglés, es una matriz en la que se analizan las Debilidades, Amenazas, Fortalezas y Oportunidades de una idea, proyecto o empresa. Es unaherramienta muy sencilla y a la vez potente para sacar una foto del estado actual y plantear un plan de trabajo a futuro. Es muy útil para hacer un plan de trabajo sobre la situación de una empresa o grupo, pero hoy vamos a hablar de cómo aplicarla a tus propuestas de innovación.</description>
-    </item>
-    
-    <item>
-      <title>El lean muchas herramientas empiezan con un número</title>
-      <link>http://www.vibagileinnovation.com/posts/en-lean-muchas-herramientas-empiezan-con-un-numero/</link>
-      <pubDate>Sun, 28 Apr 2019 18:30:34 +0200</pubDate>
-      
-      <guid>http://www.vibagileinnovation.com/posts/en-lean-muchas-herramientas-empiezan-con-un-numero/</guid>
-      <description>El lean es una filosofía, para muchos casi un acto de fe. Uno de sus pilares se asienta fuertemente sobre la mejora continua, sobre la continua necesidad de medir para poder establecer un ciclo de mejora. Esto implica hablar con números. En “Kaizen” Masaki Imaii cuenta una cita que se atribuye a Deming, diciendo “In God we trust, all others bring data”. Uno de mis jefes hizo célebre la frase “dato mata opinión” en la oficina, que viene a ser una versión más directa de lo anterior.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Innovacion on Viba agile innovation</title>
+		<link>http://www.vibagileinnovation.com/tags/innovacion/</link>
+		<description>Recent content in Innovacion on Viba agile innovation</description>
+		<generator>Hugo</generator>
+		<language>es-es</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 19 Jul 2019 08:40:40 +0200</lastBuildDate>
+		
+			<atom:link href="http://www.vibagileinnovation.com/tags/innovacion/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Sacale partido al DAFO de tu propuesta de innovación</title>
+				<link>http://www.vibagileinnovation.com/posts/sacale-partido-al-dafo-innovacion/</link>
+				<pubDate>Fri, 19 Jul 2019 08:40:40 +0200</pubDate>
+				<guid>http://www.vibagileinnovation.com/posts/sacale-partido-al-dafo-innovacion/</guid>
+				<description>&lt;p&gt;&#xD;&#xA;Hace apenas unas semanas, &lt;a href=&#34;http://vibagileinnovation.com/posts/aplica-un-dafo-a-tus-propuestas-de-innovacion/&#34;&gt; aquí &lt;/a&gt; os contaba cómo aplicar un DAFO a una idea innovadora, y cómo ésta es una herramienta para mi indispensable a la hora de desarrollar una idea. Hoy me gustaría extender esta información a qué hacer a continuación:&#xD;&#xA;&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;img src=&#34;http://www.vibagileinnovation.com/images/blog/SacaPartido-DAFO.png&#34; alt=&#34;El dafo es solo el principio&#34; /&gt;&#xD;&#xA;&#xD;&#xA;&lt;h3&gt;Fortalezas&lt;/h3&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;Las fortalezas son la primera información que debes explotar. Son la razón de ser de tu proyecto y por lo tanto deberían estar todas claras en las 3 primeras páginas, o al principio de tu presentación, en función de a quién presentes tu idea. &#xD;&#xA;Las fortalezas suelen usarse en la introducción, cuando explicas el contexto de tú idea y por qué ahora es el mejor momento para tu proyecto. También son muy útiles en los objetivos.        &#xD;&#xA;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Descubre el poder de las preguntas</title>
+				<link>http://www.vibagileinnovation.com/posts/descubre-el-poder-de-las-preguntas/</link>
+				<pubDate>Tue, 11 Jun 2019 08:20:40 +0200</pubDate>
+				<guid>http://www.vibagileinnovation.com/posts/descubre-el-poder-de-las-preguntas/</guid>
+				<description>&lt;p&gt;&#xD;&#xA;Vivimos en una sociedad acostumbrada a que todas las preguntas tengan respuesta. Ya desde nuestro sistema educativo nos lo inculcan, cuándo fue la revolución francesa? En qué año descubrió América Cristóbal Colón?  Quién escribió la Celestina? Tenemos la filosofía de que la respuesta a cualquier pregunta existe, y si no la sabes, malo será que no lo sepa Google.&#xD;&#xA;&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;img src=&#34;http://www.vibagileinnovation.com/images/blog/bombillas.jpg&#34; alt=&#34;como tener una idea&#34; /&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;Las preguntas son la puerta a nuevas ideas, a nuevas formas de pensar. Cuenta la historia de que fue gracias a que Einstein se preguntó cómo sería ir en su bicicleta a la velocidad de la luz surgió la teoría de la relatividad. También Einstein fue quien dijo que si tuviera una hora para resolver un problema, pasaría 55 minutos pensando en la pregunta adecuada, y 5 minutos le bastarían para encontrar la respuesta si la pregunta era correcta.&#xD;&#xA;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The World Café, liderazgo colaborativo</title>
+				<link>http://www.vibagileinnovation.com/posts/the-world-cafe-liderazgo-colaborativo/</link>
+				<pubDate>Wed, 29 May 2019 08:40:40 +0200</pubDate>
+				<guid>http://www.vibagileinnovation.com/posts/the-world-cafe-liderazgo-colaborativo/</guid>
+				<description>&lt;p&gt;&#xD;&#xA;En un evento hay un ponente, que con una presentación detrás, explica un problema mientras la mitad de su audiencia escucha, y la mitad se entretiene con el email, el teléfono o cualquier otra cosa. Cuando llega el turno de preguntas, nadie dice nada. Te suena esta situación?  Opinas que al ponente le enriquecería más conversar con su audiencia y saber lo que piensan?&#xD;&#xA;&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;El World Café es un método para organizar conversaciones en torno a temas que importan. Se puede usar para reflexionar en grupo, enfocar una necesidad o problemática de forma común y sobretodo, aprovechar las sinergias, la energía y la potencia de un grupo de personas que trabajan juntas con diferentes perspectivas y entornos. Porque el todo es mucho más que la suma de sus partes.&#xD;&#xA;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Aplica un DAFO a tus propuestas de innovación</title>
+				<link>http://www.vibagileinnovation.com/posts/aplica-un-dafo-a-tus-propuestas-de-innovacion/</link>
+				<pubDate>Mon, 20 May 2019 17:10:11 +0200</pubDate>
+				<guid>http://www.vibagileinnovation.com/posts/aplica-un-dafo-a-tus-propuestas-de-innovacion/</guid>
+				<description>&lt;p&gt;Un DAFO, o SWOT en inglés, es una matriz en la que se analizan las Debilidades, Amenazas, Fortalezas y Oportunidades de una idea, proyecto o empresa. Es una&#xD;&#xA;herramienta muy sencilla y a la vez potente para sacar una foto del estado actual y plantear un plan de trabajo a futuro. Es muy útil para hacer un plan de trabajo sobre la situación de una empresa o grupo, pero hoy vamos a hablar de cómo aplicarla a tus propuestas de innovación.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>El lean muchas herramientas empiezan con un número</title>
+				<link>http://www.vibagileinnovation.com/posts/en-lean-muchas-herramientas-empiezan-con-un-numero/</link>
+				<pubDate>Sun, 28 Apr 2019 18:30:34 +0200</pubDate>
+				<guid>http://www.vibagileinnovation.com/posts/en-lean-muchas-herramientas-empiezan-con-un-numero/</guid>
+				<description>&lt;p&gt;El lean es una filosofía, para muchos casi un acto de fe. Uno de sus pilares se asienta fuertemente sobre la mejora continua, sobre la continua necesidad de medir para poder establecer un ciclo de mejora. Esto implica hablar con números. En “Kaizen” Masaki Imaii cuenta una cita que se atribuye a Deming, diciendo “In God we trust, all others bring data”. Uno de mis jefes hizo célebre la frase “dato mata opinión” en la oficina, que viene a ser una versión más directa de lo anterior.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
