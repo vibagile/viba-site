@@ -407,6 +407,12 @@ h2.moto {
   background: url('images/talleres/Viba-5.jpg');
   background-size: cover;
 }
+#workshop-facilitacion-grafica {
+  background: url('images/talleres/Viba-7.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
 .workshop-content {
   float: left;
   padding-top: 20px;
