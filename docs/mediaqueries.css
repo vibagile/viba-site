@@ -151,3 +151,14 @@
     display: none;
   }
 }
+
+/*proyectos*/
+@media screen and (max-width: 780px) {
+  .projects-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .project-logo-wrapper {
+    min-height: 180px;
+  }
+}

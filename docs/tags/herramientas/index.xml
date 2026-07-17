@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Herramientas on Viba agile innovation</title>
-		<link>http://www.vibagileinnovation.com/tags/herramientas/</link>
+		<link>http://localhost:1313/tags/herramientas/</link>
 		<description>Recent content in Herramientas on Viba agile innovation</description>
 		<generator>Hugo</generator>
 		<language>es-es</language>
@@ -12,82 +12,82 @@
 		
 			<lastBuildDate>Mon, 10 Feb 2020 08:10:11 +0200</lastBuildDate>
 		
-			<atom:link href="http://www.vibagileinnovation.com/tags/herramientas/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/herramientas/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Donde confluyen Agile y Bullet Journal</title>
-				<link>http://www.vibagileinnovation.com/posts/agilebulletjournaling/</link>
+				<link>http://localhost:1313/posts/agilebulletjournaling/</link>
 				<pubDate>Mon, 10 Feb 2020 08:10:11 +0200</pubDate>
-				<guid>http://www.vibagileinnovation.com/posts/agilebulletjournaling/</guid>
+				<guid>http://localhost:1313/posts/agilebulletjournaling/</guid>
 				<description>&lt;p&gt;&#xD;&#xA;    Hoy hablamos de cómo puedes organizarte de forma ágil, cómo gestionar tu trabajo e ir adoptando algunas herramientas que luego son parte de muchas metodologías que se aplican en proyectos más complejos y en equipos de trabajo.&#xD;&#xA;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;    ¿Qué es Bullet Journal? Es un método que creó Ryder Carroll y explica en su libro “El método Bullet Journal” y puedes fisgar en su web &lt;a href=&#34;http://www.bulletjournal.com&#34;&gt; BulletJournal.com&lt;/a&gt;. Mi objetivo con este post no es enseñarte a hacer Bullet Journal (método que me encanta, practico y te puedo enseñar si tienes interés), sino contarte algunos principios básicos y cómo encajan con la filosofía agile.&#xD;&#xA;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>OKR, céntrate en lo que importa</title>
-				<link>http://www.vibagileinnovation.com/posts/okr-superpoderes/</link>
+				<link>http://localhost:1313/posts/okr-superpoderes/</link>
 				<pubDate>Tue, 28 Jan 2020 08:10:11 +0200</pubDate>
-				<guid>http://www.vibagileinnovation.com/posts/okr-superpoderes/</guid>
+				<guid>http://localhost:1313/posts/okr-superpoderes/</guid>
 				<description>&lt;p&gt;&#xD;&#xA;    John Doerr, uno de los primeros inversores de Google es el padre de los OKR. Él explica esta metodología en su libro “Mide lo que importa”. En posts anteriores explicábamos de qué se trata esta metodología y cómo ponerla en práctica. Hoy hablamos de superpoderes.&#xD;&#xA;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;    Los OKR cuentan con cuatro Superpoderes que te ayudarán a ti y a tu organización a alinearte con lo que verdaderamente importa:&#xD;&#xA;&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;h3&gt;#Superpoder número 1: Foco y Compromiso con las prioridades &lt;/h3&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;    Viene a decir que menos es más, o cómo decía Da Vinci, “la simplicidad es la máxima expresión de la sofisticación”. OKR obliga a tomar decisiones, a centrarse en qué importa, y lo más importante a decir que no a todo lo demás. Se convierte en una herramienta precisa para comunicar qué es aquello que más valoras. Steve Jobs decía que una de las claves del éxito está en saber decir que no, algo que los OKR llevan en su ADN.&#xD;&#xA;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>¿Cómo se define un objetivo ambicioso?</title>
-				<link>http://www.vibagileinnovation.com/posts/okr-objetivosambiciosos/</link>
+				<link>http://localhost:1313/posts/okr-objetivosambiciosos/</link>
 				<pubDate>Tue, 14 Jan 2020 08:10:11 +0200</pubDate>
-				<guid>http://www.vibagileinnovation.com/posts/okr-objetivosambiciosos/</guid>
+				<guid>http://localhost:1313/posts/okr-objetivosambiciosos/</guid>
 				<description>&lt;h3&gt;¿Cómo se define un objetivo ambicioso?&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;&#xD;&#xA;    Pues no es sencillo. Uno puede escribir frases como “quiero ser el consultor más molón de toda mi región” que concuerden con su cultura de trabajo, como buen humor, optimismo y rimas fáciles. Pero no significa nada si detrás no hay números, algo más concreto. &#xD;&#xA;&#xD;&#xA;&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;    En OKR la parte concreta son los Key Results. De hecho, no es raro que primero se listen los resultados que se quieren conseguir, en facturación, satisfacción de cliente, número de clientes nuevos, fidelización… y agrupando estos resultados sea cuando se empiece a tomar forma el Objetivo.&#xD;&#xA;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>OKR, llega la hora de fijar objetivos</title>
-				<link>http://www.vibagileinnovation.com/posts/okr-llega-la-hora-de-fijar-objetivos/</link>
+				<link>http://localhost:1313/posts/okr-llega-la-hora-de-fijar-objetivos/</link>
 				<pubDate>Wed, 08 Jan 2020 12:10:11 +0200</pubDate>
-				<guid>http://www.vibagileinnovation.com/posts/okr-llega-la-hora-de-fijar-objetivos/</guid>
+				<guid>http://localhost:1313/posts/okr-llega-la-hora-de-fijar-objetivos/</guid>
 				<description>&lt;h3&gt;¿Qué es OKR?&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;&#xD;&#xA;    OKR, que son las siglas de Objecives and Key Results, es un sistema para fijar objetivos que se desarrolla en Google, y luego se extiende a otras y muy variadas empresas.&#xD;&#xA;&#xD;&#xA;&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;    Frente a la tradicional estrategia de desplegar los objetivos en cascada con una fuerte componente jerárquica, OKR pretende conseguir que las personas, equipos, proyectos y departamentos de una compañía se alineen en torno a objetivos comunes, medibles y ambiciosos.&#xD;&#xA;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>XP- Qué puede aportar el Pair Programming a tu día a día.</title>
-				<link>http://www.vibagileinnovation.com/posts/xp-pair-programming-para-tu-dia-a-dia/</link>
+				<link>http://localhost:1313/posts/xp-pair-programming-para-tu-dia-a-dia/</link>
 				<pubDate>Thu, 19 Sep 2019 12:10:11 +0200</pubDate>
-				<guid>http://www.vibagileinnovation.com/posts/xp-pair-programming-para-tu-dia-a-dia/</guid>
+				<guid>http://localhost:1313/posts/xp-pair-programming-para-tu-dia-a-dia/</guid>
 				<description>&lt;p&gt;&#xD;&#xA;    XP son las siglas de Extreme Programming, una metodología de desarrollo de software pensada para mejorar la calidad del software al tiempo que se mejoraba la respuesta a los cambios de requerimientos de los clientes. Dentro de la familia de metodologías Agile se dice que es una de las más específicas, pero hoy nos vamos a centrar únicamente en una de sus 12 prácticas: el Pair Programming.&#xD;&#xA;&#xD;&#xA;&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;    Pair Programming viene a ser que dos desarrolladores de código programan en un único ordenador. Uno de ellos se encarga de ir escribiendo las líneas de código (a este rol se le llama driver) y el otro le revisa, comenta lo que opina, busca información auxiliar si hace falta y le apoya con su conocimiento (este es el navigator). Hacer pair programming es intenso, requiere atención y colaboración, y los resultado son muy buenos. A mi no me parece que sea algo que puedas hacer permanentemente como norma, pero es muy práctico en muchas situaciones que no necesariamente se dan en entornos de desarrollo de software.&#xD;&#xA;&#xD;&#xA;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>El agile va de cebollas</title>
-				<link>http://www.vibagileinnovation.com/posts/agile-va-de-cebollas/</link>
+				<link>http://localhost:1313/posts/agile-va-de-cebollas/</link>
 				<pubDate>Tue, 10 Sep 2019 17:10:11 +0200</pubDate>
-				<guid>http://www.vibagileinnovation.com/posts/agile-va-de-cebollas/</guid>
-				<description>&lt;p&gt;&#xD;&#xA;    Abrazar el cambio como ventaja competitiva no es fácil, asumir que tu cliente va a cambiar de opinión por el camino por presiones del mercado o cambios de estrategia da miedo, verdad?&#xD;&#xA;    En las metodologías ágiles, afrontar el cambio se hace desde una estrategia por capas, que se aplica tanto a la planificación como al seguimiento. Hoy hablamos de la planificación.    &#xD;&#xA;&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;img src=&#34;http://www.vibagileinnovation.com/images/blog/1909_CebollaPlanificacion-min.png&#34; alt=&#34;la cebolla de la planificación&#34; class=&#34;medium&#34; /&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;    En terminología scrum, cuando defines tu proyecto, o producto, vas a añadiendo diferentes niveles de detalle a medida que te acercas al momento presente. Partiendo de una definición de la familia de productos o la línea de trabajo desde la que partes, se define la visión del producto, y de ahí el roadmap de desarrollo, que incluye los diferentes releases del producto. Dicho de otra forma, tienes la visión de lo que quieres conseguir, un plan a nivel general de las diferentes entregas y qué incluirá cada una. Con este plan se construye el Product Backlog que es una lista priorizada de las funcionalidades que tendrá tu producto, normalmente escritas en formato de user stories. En cada iteración o sprint, se eligen aquellas que van a ser utilizadas, conformando el sprint backlog.&#xD;&#xA;&lt;/p&gt;</description>
+				<guid>http://localhost:1313/posts/agile-va-de-cebollas/</guid>
+				<description>&lt;p&gt;&#xD;&#xA;    Abrazar el cambio como ventaja competitiva no es fácil, asumir que tu cliente va a cambiar de opinión por el camino por presiones del mercado o cambios de estrategia da miedo, verdad?&#xD;&#xA;    En las metodologías ágiles, afrontar el cambio se hace desde una estrategia por capas, que se aplica tanto a la planificación como al seguimiento. Hoy hablamos de la planificación.    &#xD;&#xA;&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;img src=&#34;http://localhost:1313/images/blog/1909_CebollaPlanificacion-min.png&#34; alt=&#34;la cebolla de la planificación&#34; class=&#34;medium&#34; /&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;    En terminología scrum, cuando defines tu proyecto, o producto, vas a añadiendo diferentes niveles de detalle a medida que te acercas al momento presente. Partiendo de una definición de la familia de productos o la línea de trabajo desde la que partes, se define la visión del producto, y de ahí el roadmap de desarrollo, que incluye los diferentes releases del producto. Dicho de otra forma, tienes la visión de lo que quieres conseguir, un plan a nivel general de las diferentes entregas y qué incluirá cada una. Con este plan se construye el Product Backlog que es una lista priorizada de las funcionalidades que tendrá tu producto, normalmente escritas en formato de user stories. En cada iteración o sprint, se eligen aquellas que van a ser utilizadas, conformando el sprint backlog.&#xD;&#xA;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Sacale partido al DAFO de tu propuesta de innovación</title>
-				<link>http://www.vibagileinnovation.com/posts/sacale-partido-al-dafo-innovacion/</link>
+				<link>http://localhost:1313/posts/sacale-partido-al-dafo-innovacion/</link>
 				<pubDate>Fri, 19 Jul 2019 08:40:40 +0200</pubDate>
-				<guid>http://www.vibagileinnovation.com/posts/sacale-partido-al-dafo-innovacion/</guid>
-				<description>&lt;p&gt;&#xD;&#xA;Hace apenas unas semanas, &lt;a href=&#34;http://vibagileinnovation.com/posts/aplica-un-dafo-a-tus-propuestas-de-innovacion/&#34;&gt; aquí &lt;/a&gt; os contaba cómo aplicar un DAFO a una idea innovadora, y cómo ésta es una herramienta para mi indispensable a la hora de desarrollar una idea. Hoy me gustaría extender esta información a qué hacer a continuación:&#xD;&#xA;&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;img src=&#34;http://www.vibagileinnovation.com/images/blog/SacaPartido-DAFO.png&#34; alt=&#34;El dafo es solo el principio&#34; /&gt;&#xD;&#xA;&#xD;&#xA;&lt;h3&gt;Fortalezas&lt;/h3&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;Las fortalezas son la primera información que debes explotar. Son la razón de ser de tu proyecto y por lo tanto deberían estar todas claras en las 3 primeras páginas, o al principio de tu presentación, en función de a quién presentes tu idea. &#xD;&#xA;Las fortalezas suelen usarse en la introducción, cuando explicas el contexto de tú idea y por qué ahora es el mejor momento para tu proyecto. También son muy útiles en los objetivos.        &#xD;&#xA;&lt;/p&gt;</description>
+				<guid>http://localhost:1313/posts/sacale-partido-al-dafo-innovacion/</guid>
+				<description>&lt;p&gt;&#xD;&#xA;Hace apenas unas semanas, &lt;a href=&#34;http://vibagileinnovation.com/posts/aplica-un-dafo-a-tus-propuestas-de-innovacion/&#34;&gt; aquí &lt;/a&gt; os contaba cómo aplicar un DAFO a una idea innovadora, y cómo ésta es una herramienta para mi indispensable a la hora de desarrollar una idea. Hoy me gustaría extender esta información a qué hacer a continuación:&#xD;&#xA;&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;img src=&#34;http://localhost:1313/images/blog/SacaPartido-DAFO.png&#34; alt=&#34;El dafo es solo el principio&#34; /&gt;&#xD;&#xA;&#xD;&#xA;&lt;h3&gt;Fortalezas&lt;/h3&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;Las fortalezas son la primera información que debes explotar. Son la razón de ser de tu proyecto y por lo tanto deberían estar todas claras en las 3 primeras páginas, o al principio de tu presentación, en función de a quién presentes tu idea. &#xD;&#xA;Las fortalezas suelen usarse en la introducción, cuando explicas el contexto de tú idea y por qué ahora es el mejor momento para tu proyecto. También son muy útiles en los objetivos.        &#xD;&#xA;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Descubre el poder de las preguntas</title>
-				<link>http://www.vibagileinnovation.com/posts/descubre-el-poder-de-las-preguntas/</link>
+				<link>http://localhost:1313/posts/descubre-el-poder-de-las-preguntas/</link>
 				<pubDate>Tue, 11 Jun 2019 08:20:40 +0200</pubDate>
-				<guid>http://www.vibagileinnovation.com/posts/descubre-el-poder-de-las-preguntas/</guid>
-				<description>&lt;p&gt;&#xD;&#xA;Vivimos en una sociedad acostumbrada a que todas las preguntas tengan respuesta. Ya desde nuestro sistema educativo nos lo inculcan, cuándo fue la revolución francesa? En qué año descubrió América Cristóbal Colón?  Quién escribió la Celestina? Tenemos la filosofía de que la respuesta a cualquier pregunta existe, y si no la sabes, malo será que no lo sepa Google.&#xD;&#xA;&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;img src=&#34;http://www.vibagileinnovation.com/images/blog/bombillas.jpg&#34; alt=&#34;como tener una idea&#34; /&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;Las preguntas son la puerta a nuevas ideas, a nuevas formas de pensar. Cuenta la historia de que fue gracias a que Einstein se preguntó cómo sería ir en su bicicleta a la velocidad de la luz surgió la teoría de la relatividad. También Einstein fue quien dijo que si tuviera una hora para resolver un problema, pasaría 55 minutos pensando en la pregunta adecuada, y 5 minutos le bastarían para encontrar la respuesta si la pregunta era correcta.&#xD;&#xA;&lt;/p&gt;</description>
+				<guid>http://localhost:1313/posts/descubre-el-poder-de-las-preguntas/</guid>
+				<description>&lt;p&gt;&#xD;&#xA;Vivimos en una sociedad acostumbrada a que todas las preguntas tengan respuesta. Ya desde nuestro sistema educativo nos lo inculcan, cuándo fue la revolución francesa? En qué año descubrió América Cristóbal Colón?  Quién escribió la Celestina? Tenemos la filosofía de que la respuesta a cualquier pregunta existe, y si no la sabes, malo será que no lo sepa Google.&#xD;&#xA;&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;img src=&#34;http://localhost:1313/images/blog/bombillas.jpg&#34; alt=&#34;como tener una idea&#34; /&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;Las preguntas son la puerta a nuevas ideas, a nuevas formas de pensar. Cuenta la historia de que fue gracias a que Einstein se preguntó cómo sería ir en su bicicleta a la velocidad de la luz surgió la teoría de la relatividad. También Einstein fue quien dijo que si tuviera una hora para resolver un problema, pasaría 55 minutos pensando en la pregunta adecuada, y 5 minutos le bastarían para encontrar la respuesta si la pregunta era correcta.&#xD;&#xA;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>The World Café, liderazgo colaborativo</title>
-				<link>http://www.vibagileinnovation.com/posts/the-world-cafe-liderazgo-colaborativo/</link>
+				<link>http://localhost:1313/posts/the-world-cafe-liderazgo-colaborativo/</link>
 				<pubDate>Wed, 29 May 2019 08:40:40 +0200</pubDate>
-				<guid>http://www.vibagileinnovation.com/posts/the-world-cafe-liderazgo-colaborativo/</guid>
+				<guid>http://localhost:1313/posts/the-world-cafe-liderazgo-colaborativo/</guid>
 				<description>&lt;p&gt;&#xD;&#xA;En un evento hay un ponente, que con una presentación detrás, explica un problema mientras la mitad de su audiencia escucha, y la mitad se entretiene con el email, el teléfono o cualquier otra cosa. Cuando llega el turno de preguntas, nadie dice nada. Te suena esta situación?  Opinas que al ponente le enriquecería más conversar con su audiencia y saber lo que piensan?&#xD;&#xA;&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;El World Café es un método para organizar conversaciones en torno a temas que importan. Se puede usar para reflexionar en grupo, enfocar una necesidad o problemática de forma común y sobretodo, aprovechar las sinergias, la energía y la potencia de un grupo de personas que trabajan juntas con diferentes perspectivas y entornos. Porque el todo es mucho más que la suma de sus partes.&#xD;&#xA;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Aplica un DAFO a tus propuestas de innovación</title>
-				<link>http://www.vibagileinnovation.com/posts/aplica-un-dafo-a-tus-propuestas-de-innovacion/</link>
+				<link>http://localhost:1313/posts/aplica-un-dafo-a-tus-propuestas-de-innovacion/</link>
 				<pubDate>Mon, 20 May 2019 17:10:11 +0200</pubDate>
-				<guid>http://www.vibagileinnovation.com/posts/aplica-un-dafo-a-tus-propuestas-de-innovacion/</guid>
+				<guid>http://localhost:1313/posts/aplica-un-dafo-a-tus-propuestas-de-innovacion/</guid>
 				<description>&lt;p&gt;Un DAFO, o SWOT en inglés, es una matriz en la que se analizan las Debilidades, Amenazas, Fortalezas y Oportunidades de una idea, proyecto o empresa. Es una&#xD;&#xA;herramienta muy sencilla y a la vez potente para sacar una foto del estado actual y plantear un plan de trabajo a futuro. Es muy útil para hacer un plan de trabajo sobre la situación de una empresa o grupo, pero hoy vamos a hablar de cómo aplicarla a tus propuestas de innovación.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>El lean muchas herramientas empiezan con un número</title>
-				<link>http://www.vibagileinnovation.com/posts/en-lean-muchas-herramientas-empiezan-con-un-numero/</link>
+				<link>http://localhost:1313/posts/en-lean-muchas-herramientas-empiezan-con-un-numero/</link>
 				<pubDate>Sun, 28 Apr 2019 18:30:34 +0200</pubDate>
-				<guid>http://www.vibagileinnovation.com/posts/en-lean-muchas-herramientas-empiezan-con-un-numero/</guid>
+				<guid>http://localhost:1313/posts/en-lean-muchas-herramientas-empiezan-con-un-numero/</guid>
 				<description>&lt;p&gt;El lean es una filosofía, para muchos casi un acto de fe. Uno de sus pilares se asienta fuertemente sobre la mejora continua, sobre la continua necesidad de medir para poder establecer un ciclo de mejora. Esto implica hablar con números. En “Kaizen” Masaki Imaii cuenta una cita que se atribuye a Deming, diciendo “In God we trust, all others bring data”. Uno de mis jefes hizo célebre la frase “dato mata opinión” en la oficina, que viene a ser una versión más directa de lo anterior.&lt;/p&gt;</description>
 			</item>
 	</channel>

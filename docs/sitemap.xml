@@ -2,69 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.vibagileinnovation.com/posts/agilebulletjournaling/</loc>
+    <loc>http://localhost:1313/proyectos/</loc>
+    <lastmod>2026-07-17T09:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/agilebulletjournaling/</loc>
     <lastmod>2020-02-10T08:10:11+02:00</lastmod>
   </url><url>
-    <loc>http://www.vibagileinnovation.com/tags/herramientas/</loc>
+    <loc>http://localhost:1313/tags/herramientas/</loc>
     <lastmod>2020-02-10T08:10:11+02:00</lastmod>
   </url><url>
-    <loc>http://www.vibagileinnovation.com/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2020-02-10T08:10:11+02:00</lastmod>
   </url><url>
-    <loc>http://www.vibagileinnovation.com/tags/vibaagile/</loc>
+    <loc>http://localhost:1313/tags/vibaagile/</loc>
     <lastmod>2020-02-10T08:10:11+02:00</lastmod>
   </url><url>
-    <loc>http://www.vibagileinnovation.com/posts/okr-superpoderes/</loc>
+    <loc>http://localhost:1313/posts/okr-superpoderes/</loc>
     <lastmod>2020-01-28T08:10:11+02:00</lastmod>
   </url><url>
-    <loc>http://www.vibagileinnovation.com/posts/okr-objetivosambiciosos/</loc>
+    <loc>http://localhost:1313/posts/okr-objetivosambiciosos/</loc>
     <lastmod>2020-01-14T08:10:11+02:00</lastmod>
   </url><url>
-    <loc>http://www.vibagileinnovation.com/posts/okr-llega-la-hora-de-fijar-objetivos/</loc>
+    <loc>http://localhost:1313/posts/okr-llega-la-hora-de-fijar-objetivos/</loc>
     <lastmod>2020-01-08T12:10:11+02:00</lastmod>
   </url><url>
-    <loc>http://www.vibagileinnovation.com/posts/xp-pair-programming-para-tu-dia-a-dia/</loc>
+    <loc>http://localhost:1313/posts/xp-pair-programming-para-tu-dia-a-dia/</loc>
     <lastmod>2019-09-19T12:10:11+02:00</lastmod>
   </url><url>
-    <loc>http://www.vibagileinnovation.com/posts/agile-va-de-cebollas/</loc>
+    <loc>http://localhost:1313/posts/agile-va-de-cebollas/</loc>
     <lastmod>2019-09-10T17:10:11+02:00</lastmod>
   </url><url>
-    <loc>http://www.vibagileinnovation.com/tags/innovacion/</loc>
+    <loc>http://localhost:1313/tags/innovacion/</loc>
     <lastmod>2019-07-19T08:40:40+02:00</lastmod>
   </url><url>
-    <loc>http://www.vibagileinnovation.com/posts/sacale-partido-al-dafo-innovacion/</loc>
+    <loc>http://localhost:1313/posts/sacale-partido-al-dafo-innovacion/</loc>
     <lastmod>2019-07-19T08:40:40+02:00</lastmod>
   </url><url>
-    <loc>http://www.vibagileinnovation.com/posts/la-transformacion-que-no-pudo-ser/</loc>
+    <loc>http://localhost:1313/posts/la-transformacion-que-no-pudo-ser/</loc>
     <lastmod>2019-06-19T20:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://www.vibagileinnovation.com/posts/descubre-el-poder-de-las-preguntas/</loc>
+    <loc>http://localhost:1313/posts/descubre-el-poder-de-las-preguntas/</loc>
     <lastmod>2019-06-11T08:20:40+02:00</lastmod>
   </url><url>
-    <loc>http://www.vibagileinnovation.com/posts/the-world-cafe-liderazgo-colaborativo/</loc>
+    <loc>http://localhost:1313/posts/the-world-cafe-liderazgo-colaborativo/</loc>
     <lastmod>2019-05-29T08:40:40+02:00</lastmod>
   </url><url>
-    <loc>http://www.vibagileinnovation.com/posts/aplica-un-dafo-a-tus-propuestas-de-innovacion/</loc>
+    <loc>http://localhost:1313/posts/aplica-un-dafo-a-tus-propuestas-de-innovacion/</loc>
     <lastmod>2019-05-20T17:10:11+02:00</lastmod>
   </url><url>
-    <loc>http://www.vibagileinnovation.com/posts/en-lean-muchas-herramientas-empiezan-con-un-numero/</loc>
+    <loc>http://localhost:1313/posts/en-lean-muchas-herramientas-empiezan-con-un-numero/</loc>
     <lastmod>2019-04-28T18:30:34+02:00</lastmod>
   </url><url>
-    <loc>http://www.vibagileinnovation.com/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2019-03-30T20:11:34+02:00</lastmod>
   </url><url>
-    <loc>http://www.vibagileinnovation.com/contacto/</loc>
+    <loc>http://localhost:1313/contacto/</loc>
     <lastmod>2019-03-30T20:11:34+02:00</lastmod>
   </url><url>
-    <loc>http://www.vibagileinnovation.com/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2019-03-30T20:11:34+02:00</lastmod>
   </url><url>
-    <loc>http://www.vibagileinnovation.com/servicios/</loc>
+    <loc>http://localhost:1313/servicios/</loc>
     <lastmod>2019-03-30T20:11:34+02:00</lastmod>
   </url><url>
-    <loc>http://www.vibagileinnovation.com/talleres/</loc>
+    <loc>http://localhost:1313/talleres/</loc>
     <lastmod>2019-03-30T20:11:34+02:00</lastmod>
   </url><url>
-    <loc>http://www.vibagileinnovation.com/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>

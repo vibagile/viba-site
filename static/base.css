@@ -497,6 +497,112 @@ h2.moto {
   float: left;
   margin-bottom: 90px;
 }
+/* proyectos */
+
+.projects {
+  float: left;
+  width: 100%;
+  margin-bottom: 90px;
+}
+
+.projects-band {
+  position: relative;
+  height: 400px;
+  overflow: hidden;
+  background:
+    linear-gradient(
+      to bottom,
+      rgba(117, 85, 85, 0.4),
+      rgba(117, 85, 85, 0.4)
+    ),
+    url('images/projects-band.jpg') no-repeat;
+  background-size: cover;
+  background-position: center;
+  margin: 0 auto 50px auto;
+}
+
+.project {
+  width: 100%;
+  min-height: 280px;
+  padding: 30px;
+  float: left;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 2px solid #76bfb0;
+  background: #ffffff;
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}
+
+.project-logo-container {
+  width: 260px;
+  height: 260px;
+  flex: 0 0 260px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 25px;
+  background: #f7f7f7;
+}
+
+
+.project-logo {
+  display: block;
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+}
+
+.project-content {
+  float: left;
+  width: 62%;
+  margin-left: 4%;
+  margin-right: 4%;
+  padding-top: 20px;
+}
+
+.project-header {
+  font-size: 24px;
+  margin-top: 0;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.project-subtitle {
+  font-size: 16px;
+  font-style: italic;
+  line-height: 1.5;
+  color: #60ae9d;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.project-content p {
+  margin-left: 0;
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+.project-link {
+  display: inline-block;
+  margin-top: 10px;
+  color: #60ae9d;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.project-link:hover {
+  text-decoration: underline;
+}
+
+
+.project-alt {
+  background: #f0f0f0;
+  border: none;
+}
 
 /* services */
 .services-band {
